@@ -1,3 +1,6 @@
 [submodule "object_track/deep_sort"]
 	path = object_track/deep_sort
 	url = https://github.com/nwojke/deep_sort.git
+[submodule "3D_pose/mmpose"]
+	path = 3D_pose/mmpose
+	url = https://github.com/open-mmlab/mmpose.git
